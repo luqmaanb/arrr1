@@ -10,13 +10,13 @@ with open("CHANGES.rst") as f:
 
 
 setup(
-    name="arrr",
+    name="arrr1",
     version=get_version(),
     description="A module and command to turn English into Pirate speak.",
     long_description=readme + "\n\n" + changes,
     author="Nicholas H.Tollervey",
-    author_email="ntoll@ntoll.org",
-    url="https://github.com/ntoll/arrr",
+    author_email="luqmaanbaboo@gmail.com",
+    url="https://github.com/luqmaanb/arrr1",
     py_modules=["arrr",],
     license="MIT",
     classifiers=[

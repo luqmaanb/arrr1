@@ -37,7 +37,7 @@ Documentation here: https://arrr.readthedocs.io/en/latest/
 
 
 #: MAJOR, MINOR, RELEASE, STATUS [alpha, beta, final], VERSION
-_VERSION = (1, 0, 1)
+_VERSION = (1, 0, 2)
 
 
 #: Defines English to Pirate-ish word substitutions.
@@ -133,7 +133,7 @@ def translate(english):
 
 
 def main(arrrgv=None):
-    """ 
+    """
     Entry point for the command line tool 'pirate'.
 
     Will print help text if the optional first argument is "help". Otherwise,

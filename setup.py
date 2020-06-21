@@ -17,7 +17,7 @@ setup(
     author="Nicholas H.Tollervey",
     author_email="luqmaanbaboo@gmail.com",
     url="https://github.com/luqmaanb/arrr1",
-    py_modules=["arrr",],
+    py_modules=["arrr1",],
     license="MIT",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
